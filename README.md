@@ -1,92 +1,73 @@
+# 🚀 VALKI — The Ultimate Mobile Companion for VALORANT
+
 <div align="center">
+  <p align="center">
+    <strong>Your tactical edge, now in your pocket.</strong>
+  </p>
+  
+  <img src="https://github.com/user-attachments/assets/cdb08384-73d9-4557-b715-d2178db2dbe2" alt="VALKI Banner" width="85%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.1);" />
 
-<img src="https://github.com/user-attachments/assets/cdb08384-73d9-4557-b715-d2178db2dbe2" alt="VALKI preview" width="820" />
+  <br />
+  <br />
 
-<h1>VALKI</h1>
-
-<p><em>A mobile companion app for players of <strong>VALORANT</strong>.</em></p>
-
-<p>
-  <a href="https://apps.apple.com/tw/app/valki/id6737088520">
-    <img alt="Download on the App Store" src="https://img.shields.io/badge/App%20Store-VALKI-black?logo=apple&logoColor=white">
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.deebug.valki&hl=zh-TW">
-    <img alt="Get it on Google Play" src="https://img.shields.io/badge/Google%20Play-VALKI-3DDC84?logo=googleplay&logoColor=white">
-  </a>
-  <a href="https://valki.app/">
-    <img alt="Website" src="https://img.shields.io/badge/Website-valki.app-0b72e7?logo=google-chrome&logoColor=white">
-  </a>
-</p>
+  [![App Store](https://img.shields.io/badge/App%20Store-Download-black?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/tw/app/valki/id6737088520)
+  [![Google Play](https://img.shields.io/badge/Google%20Play-Get_it_on-3DDC84?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.deebug.valki&hl=zh-TW)
+  [![Website](https://img.shields.io/badge/Website-valki.app-0b72e7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://valki.app/)
 
 </div>
 
 ---
 
-## Overview
+## 📖 Overview
 
-**VALKI** is a mobile companion app created by **DEEBUG** for players of **VALORANT**, the popular PC first-person shooter by Riot Games.  
-It lets you quickly access useful game info and tools right from your phone.
+**VALKI** is a sleek, high-performance mobile companion developed by **DEEBUG** for the global VALORANT community. It bridges the gap between your PC and your daily life, allowing you to stay synced with your stats, skins, and strategy — anytime, anywhere.
 
-> ℹ️ VALORANT is a **PC game**. **VALKI** is a **mobile app** (iOS/Android) that complements your gameplay outside the game.
+Whether you're checking your **Daily Store** rotation on your commute or analyzing your **Match History** after a intense session, VALKI provides the insights you need to climb the ranks.
 
----
-
-## ✨ Features
-
-- **Player Insights** — View detailed player profiles and performance stats  
-- **Daily Store** — Check your in-game shop items from your phone  
-- **Skin Rating** — Rate and browse weapon skins with the community  
-- **Remote Agent Pick** — Pre-select agents to speed up the picking process  
-- **Match Tracker** — Track live matches and review match history  
-- **VALKI PRO Membership** — Unlock ad-free usage, multi-account binding, dark mode, and more
+> [!NOTE]
+> **VALORANT** is a PC-only title. **VALKI** is a third-party mobile application designed to enhance your gameplay experience through data visualization and remote tools.
 
 ---
 
-## 📲 Platforms
+## ✨ Key Features
 
-- iOS: <https://apps.apple.com/tw/app/valki/id6737088520>  
-- Android: <https://play.google.com/store/apps/details?id=com.deebug.valki&hl=zh-TW>  
-- Website: <https://valki.app/>
-
----
-
-## 🔒 Privacy & Disclaimer
-
-VALKI communicates with Riot’s backend services but is **not officially affiliated with Riot Games**.  
-Riot does not publicly authorize all APIs (especially store-related data), so usage may involve certain risks.  
-Please use at your discretion and review your account security practices.
+| Feature | Description |
+| :--- | :--- |
+| **📊 Player Insights** | Track your RR progression, peak rank, and deep-dive into your combat performance. |
+| **🛒 Daily Store** | Check your personal weapon shop and Night Market instantly without launching the game. |
+| **⭐ Skin Gallery** | Browse the latest bundles, view high-quality skin videos, and check community ratings. |
+| **⚡ Agent Lock** | (Experimental) Pre-select your agents remotely to ensure you always get your main. |
+| **📉 Match Tracker** | Detailed breakdown of K/D, Headshot %, and map-specific win rates. |
+| **💎 VALKI PRO** | Enjoy an ad-free experience, multi-account binding, and exclusive Dark Mode themes. |
 
 ---
 
-## 🧭 Quick Links
+## 🔒 Security & Disclaimer
 
-- **Download**: [App Store](https://apps.apple.com/tw/app/valki/id6737088520) · [Google Play](https://play.google.com/store/apps/details?id=com.deebug.valki&hl=zh-TW)  
-- **Website**: <https://valki.app/>  
-- **Support**: Coming soon
+We prioritize your account security. Before using VALKI, please keep the following in mind:
 
----
-
-## 👥 About
-
-VALKI is developed by **DEEBUG**, an independent team passionate about building helpful tools for the gaming community.  
-Our mission is to make VALORANT data and features more accessible to players worldwide.
+* **Official Status**: VALKI is **not** affiliated with, endorsed, or sponsored by Riot Games.
+* **API Usage**: Since certain features (like Store data) utilize non-public API endpoints, usage involves inherent risks common to third-party tools.
+* **Privacy First**: We recommend enabling **2-Factor Authentication (2FA)** on your Riot account to ensure maximum security while using any third-party service.
 
 ---
 
-## 中文介紹
+## 📱 Platforms
 
-**VALKI** 是由 **DEEBUG** 開發的 **行動伴隨應用程式**，專為《**特戰英豪（VALORANT）**》玩家設計。  
-玩家可以在手機上快速查看遊戲資訊與工具，例如：玩家戰績、每日商店、武器造型評分、預選特務、對戰紀錄，以及 **PRO 會員**（移除廣告、多帳號綁定、深色模式等）。
+Available now for download on your favorite mobile OS:
 
-> 注意：VALKI 與 Riot Games 無官方合作關係。  
-> 由於 Riot 並未公開授權所有 API（特別是商城相關資料），使用可能存在一定風險，請自行評估。
-
-- 下載： [iOS](https://apps.apple.com/tw/app/valki/id6737088520) · [Android](https://play.google.com/store/apps/details?id=com.deebug.valki&hl=zh-TW)  
-- 網站： <https://valki.app/>
+* **iOS**: [Download on the App Store](https://apps.apple.com/tw/app/valki/id6737088520)
+* **Android**: [Get it on Google Play](https://play.google.com/store/apps/details?id=com.deebug.valki&hl=zh-TW)
+* **Web**: [Visit the Official Site](https://valki.app/)
 
 ---
 
-## License
+## 👥 About DEEBUG
 
-This repository’s license (if any) will be added here.
+We are an independent team of developers and gamers dedicated to building tools that empower the competitive community. **VALKI** is the result of our passion for making gaming data accessible and beautiful.
 
+<br />
+
+<div align="center">
+  <p>Crafted with 🎯 by <b>DEEBUG Team</b> · © 2026</p>
+</div>
